@@ -1,0 +1,21 @@
+#game-board {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  header {
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(150, 42, 99) ;
+    cursor: pointer;
+  }
+  
+ body {
+    background-color: aqua;
+ }
